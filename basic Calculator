@@ -1,0 +1,22 @@
+# C# Calculator
+
+A simple calculator application made using C# and Windows Forms.
+
+## Features
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Clear button
+- Result display
+
+## Technologies Used
+
+- C#
+- .NET
+- Windows Forms
+
+## Screenshot
+
+![Calculator](calculator.png)
